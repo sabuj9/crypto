@@ -14,13 +14,15 @@ item_5 = ["4", "8", "(", "δ", "3", "}", "9", "#", "!", "]", "X", "1", "ψ"]
 item_6 = ["~", "0", "?", "σ", "2", "5", "7", "μ", "√", "≜", "*", "λ", "%"]
 
 while True:
-    print('''
-               Encrypt Your Message
-            --------------------------
-            1. Classical Cryptography
-            2. Leet Language
-            3. Hash
-            4. Quite
+     print('''
+                         CRYPTIC
+            """""""""""""""""""""""""""""""""""
+                 1. Classical Cryptography
+                 2. Leet Language
+                 3. Hash
+                 4. Quite
+            
+            ©Haxor365 -Secure Yourself
 
             ''')
     command = input("Enter Your Choice: ")
